@@ -1,3 +1,4 @@
+-- https://www.depesz.com/2020/01/29/which-tables-should-be-auto-vacuumed-or-auto-analyzed/
 CREATE VIEW autovacuum_queue AS
 WITH s AS (
     SELECT
